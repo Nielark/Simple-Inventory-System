@@ -1,0 +1,14 @@
+C:\Users\Mark Daniel\source\repos\Simple Inventory System\Simple Inventory System\bin\Debug\net8.0\Simple Inventory System.exe
+C:\Users\Mark Daniel\source\repos\Simple Inventory System\Simple Inventory System\bin\Debug\net8.0\Simple Inventory System.deps.json
+C:\Users\Mark Daniel\source\repos\Simple Inventory System\Simple Inventory System\bin\Debug\net8.0\Simple Inventory System.runtimeconfig.json
+C:\Users\Mark Daniel\source\repos\Simple Inventory System\Simple Inventory System\bin\Debug\net8.0\Simple Inventory System.dll
+C:\Users\Mark Daniel\source\repos\Simple Inventory System\Simple Inventory System\bin\Debug\net8.0\Simple Inventory System.pdb
+C:\Users\Mark Daniel\source\repos\Simple Inventory System\Simple Inventory System\obj\Debug\net8.0\Simple Inventory System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark Daniel\source\repos\Simple Inventory System\Simple Inventory System\obj\Debug\net8.0\Simple Inventory System.AssemblyInfoInputs.cache
+C:\Users\Mark Daniel\source\repos\Simple Inventory System\Simple Inventory System\obj\Debug\net8.0\Simple Inventory System.AssemblyInfo.cs
+C:\Users\Mark Daniel\source\repos\Simple Inventory System\Simple Inventory System\obj\Debug\net8.0\Simple Inventory System.csproj.CoreCompileInputs.cache
+C:\Users\Mark Daniel\source\repos\Simple Inventory System\Simple Inventory System\obj\Debug\net8.0\Simple Inventory System.dll
+C:\Users\Mark Daniel\source\repos\Simple Inventory System\Simple Inventory System\obj\Debug\net8.0\refint\Simple Inventory System.dll
+C:\Users\Mark Daniel\source\repos\Simple Inventory System\Simple Inventory System\obj\Debug\net8.0\Simple Inventory System.pdb
+C:\Users\Mark Daniel\source\repos\Simple Inventory System\Simple Inventory System\obj\Debug\net8.0\Simple Inventory System.genruntimeconfig.cache
+C:\Users\Mark Daniel\source\repos\Simple Inventory System\Simple Inventory System\obj\Debug\net8.0\ref\Simple Inventory System.dll

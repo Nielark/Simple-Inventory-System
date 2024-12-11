@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mark Daniel\\source\\repos\\Simple Inventory System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD3EEC0-5E2B-4326-A6C0-D23BE1494A0A}|Simple Inventory System\\Simple Inventory System.csproj|c:\\users\\mark daniel\\source\\repos\\simple inventory system\\simple inventory system\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD3EEC0-5E2B-4326-A6C0-D23BE1494A0A}|Simple Inventory System\\Simple Inventory System.csproj|solutionrelative:simple inventory system\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD3EEC0-5E2B-4326-A6C0-D23BE1494A0A}|Simple Inventory System\\Simple Inventory System.csproj|c:\\users\\mark daniel\\source\\repos\\simple inventory system\\simple inventory system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD3EEC0-5E2B-4326-A6C0-D23BE1494A0A}|Simple Inventory System\\Simple Inventory System.csproj|solutionrelative:simple inventory system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD3EEC0-5E2B-4326-A6C0-D23BE1494A0A}|Simple Inventory System\\Simple Inventory System.csproj|c:\\users\\mark daniel\\source\\repos\\simple inventory system\\simple inventory system\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD3EEC0-5E2B-4326-A6C0-D23BE1494A0A}|Simple Inventory System\\Simple Inventory System.csproj|solutionrelative:simple inventory system\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mark Daniel\\source\\repos\\Simple Inventory System\\Simple Inventory System\\Program.cs",
+              "RelativeDocumentMoniker": "Simple Inventory System\\Program.cs",
+              "ToolTip": "C:\\Users\\Mark Daniel\\source\\repos\\Simple Inventory System\\Simple Inventory System\\Program.cs",
+              "RelativeToolTip": "Simple Inventory System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:54:26.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Mark Daniel\\source\\repos\\Simple Inventory System\\Simple Inventory System\\Inventory.cs",
+              "RelativeDocumentMoniker": "Simple Inventory System\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Mark Daniel\\source\\repos\\Simple Inventory System\\Simple Inventory System\\Inventory.cs",
+              "RelativeToolTip": "Simple Inventory System\\Inventory.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:57:09.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Mark Daniel\\source\\repos\\Simple Inventory System\\Simple Inventory System\\Product.cs",
+              "RelativeDocumentMoniker": "Simple Inventory System\\Product.cs",
+              "ToolTip": "C:\\Users\\Mark Daniel\\source\\repos\\Simple Inventory System\\Simple Inventory System\\Product.cs",
+              "RelativeToolTip": "Simple Inventory System\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:56:22.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
